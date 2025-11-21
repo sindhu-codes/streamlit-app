@@ -1,4 +1,4 @@
-<img width="1344" height="685" alt="Streamlit_output" src="https://github.com/user-attachments/assets/ea2d0342-9919-46ab-b73e-825fe8bc86bc" />🎨 Streamlit App — Interactive Web Application
+🎨 Streamlit App — Interactive Web Application
 
 This repository contains my first hands-on Streamlit web application, built as part of my learning and my journey in Python + data tools.
 
