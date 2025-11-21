@@ -9,6 +9,8 @@ Streamlit genuinely feels like low-code done right — you write Python, it give
 🎥 Demo Video
 A short demo video has been added to this repository.
 Check it out to instantly understand how the app works!
+
+
 <img width="1344" height="685" alt="Streamlit_output" src="https://github.com/user-attachments/assets/2602fb7b-f219-4113-9a7f-b49834f479f6" />
 
 🚀 Features
